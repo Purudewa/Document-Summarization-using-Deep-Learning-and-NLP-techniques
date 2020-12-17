@@ -1,0 +1,2 @@
+# Document-Summarization-using-Deep-Learning-and-NLP-techniques
+Using the RBM model and NLTK library, we have designed a solution which will be taking a document as an input and generate its summary according to user requirement. Feature extraction has played an essential role in generating a summary. ‘9’ essential features have been used for the extraction of summary. Summary generated is being evaluated using the ROGUE metric.
